@@ -3,39 +3,36 @@ SE_Day1_Assignment
 #Part 1: Introduction to Software Engineering
 1.Explain what software engineering is and discuss its importance in the technology industry
 software engineering is a branch of computer science used for developing, testing and maintaining software.
-reliability- it ensures software performs as expected without bias especially for critical applications like healthcare ,finance. 
-efficiency - it helps to optimize developer workflow while maintaining high quality standards.
- scalability and flexibility - it ensures that the system can handle an increased load without affecting performance.
- security - implement protection practice like authentication, authorization and encryption to secure users information. Identify and describe at least three key milestones in the evolution of software engineering.
+Software engineering is the systematic application of engineering principles, methods, and tools to the development and maintenance of high-quality software systems. The aspects involved are the design, development, testing, deployment, and maintenance of software products.
+Software engineering importance: 
+Software engineering plays a crucial role in the technology industry by enabling the creation of software applications and systems that power various aspects of modern life, including communication, commerce, entertainment, and healthcare.
 
 2.Identify and describe at least three key milestones in the evolution of software engineering.  
-.mastering complexity
-Mastering process
-Mastering machine
+Development of programming languages
+Establishment of software engineering as a discipline in the 1960s
+Rise of agile methodologies in the 2000s.
 
 List and briefly explain the phases of the Software Development Life Cycle.
- planning - identify the software requirement or purpose and scope.
- requirement analysis - identify the final user specification. 
-design - building the framework. 
-coding - converting software design into tangible code.
- testing - examine the software for any bugs and glitches
+  - Requirements: Gathering and documenting user needs and system requirements.
+  - Design: Creating high-level and detailed designs of the software architecture and user interface.
+  - Implementation: Writing code and building the software according to the design specifications.
+  - Testing: Conducting various tests to ensure the software meets quality standards and functional requirements.
+  - Deployment: Releasing the software to users or customers.
+  - Maintenance: Providing ongoing support, updates, and enhancements to the software after deployment.
  
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 waterfall methodology - Linear and sequential, each phase is completed before moving on. 
-- there is Low flexibility,
- changes are hard to incorporate once a phase is complete.
- - Customer feedback comes late, after the product is developed.
- - Testing is done at the end of the development process.
- - agile methodology - Iterative and incremental, with multiple cycles (sprints). 
-- High flexibility, adapts to changing requirements. 
-- Regular customer feedback is incorporated into every sprint. 
-- Testing is continuous and done after each iteration.
+ - Waterfall: Sequential approach with distinct phases
+ - Agile: Iterative and incremental approach focused on flexibility, collaboration, and responding to change.
+ - Scrum: Agile framework emphasizing small, self-organizing teams working in short iterations called sprints.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
-Software Developer - developing applications,programs and systems using programming languages and frameworks.
- - maintaining and updating software to keep it functional. 
-- collaborating with other team members to ensure best practice when developing software.
-- reporting to the project manager about the progress of the software development.
+- Software Developer: Responsiblility is writing code and implementing software solutions.
+- Quality Assurance Engineer: Ensuring software quality by designing and executing test plans.
+- Project Manager: Oversees the planning, execution, and delivery of software projects.
+- System Architect: Designing the overall structure and architecture of software systems.
+- UI/UX Designer: Creates user interfaces and designs user experiences for software applications.
+ 
 
 Quality Assurance Engineer - collaborate with stakeholders to understand and clarify software requirement.
 - create development standards and procedures for the programmers to follow
