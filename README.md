@@ -1,7 +1,6 @@
 SE_Day1_Assignment
 
 #Part 1: Introduction to Software Engineering
-
 1.Explain what software engineering is and discuss its importance in the technology industry
 software engineering is a branch of computer science used for developing, testing and maintaining software.
 reliability- it ensures software performs as expected without bias especially for critical applications like healthcare ,finance. 
@@ -9,12 +8,10 @@ efficiency - it helps to optimize developer workflow while maintaining high qual
  scalability and flexibility - it ensures that the system can handle an increased load without affecting performance.
  security - implement protection practice like authentication, authorization and encryption to secure users information. Identify and describe at least three key milestones in the evolution of software engineering.
 
-
 2.Identify and describe at least three key milestones in the evolution of software engineering.  
 .mastering complexity
 Mastering process
 Mastering machine
-
 
 List and briefly explain the phases of the Software Development Life Cycle.
  planning - identify the software requirement or purpose and scope.
@@ -34,7 +31,6 @@ waterfall methodology - Linear and sequential, each phase is completed before mo
 - Regular customer feedback is incorporated into every sprint. 
 - Testing is continuous and done after each iteration.
 
-
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 Software Developer - developing applications,programs and systems using programming languages and frameworks.
  - maintaining and updating software to keep it functional. 
@@ -52,7 +48,6 @@ Project Manager - assembles and lead the software development team.
 - create blueprint for the project.
 - tracking and communicating information regarding the project milestone.
 - deliver the complete software to the client and regularly check its performance.
-
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 An integrated development environment (IDE) is a software platform that facilitates the creation of other software applications by providing a space to write, compile, and debug code, sometimes with value-adding tools that reduce development efforts. eg Visual Studio Code (VSCode)
