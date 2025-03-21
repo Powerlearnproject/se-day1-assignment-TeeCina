@@ -128,9 +128,10 @@ Developer control - Prompt engineering gives developers more control over users'
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 
-Draw a picture of a person
+Vague Prompt: Draw a picture of a person
 
-Draw a full-body portrait of a young woman with long brown hair, wearing a red jacket and blue jeans, standing in a park on a sunny day with trees and grass in the background.
+
+Clear Prompt: Draw a full-body portrait of a young woman with long brown hair, wearing a red jacket and blue jeans, standing in a park on a sunny day with trees and grass in the background.
 
 Clarity: The improved prompt specifies what is being asked (a full-body portrait) rather than just a "person.
 Specific Details: Describing the woman's appearance (long brown hair, red jacket, blue jeans) and the setting (park, sunny day, trees, grass) gives clear guidance on the image to be created.
